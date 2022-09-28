@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    grid-area: header;
+    display: flex;
+    background-color:ghostwhite;
+    width: 150%;
+    height: 60px;
+    position: sticky;
+}
+img {
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+}
+

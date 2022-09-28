@@ -1,0 +1,49 @@
+.dialog {
+    border: 1px solid black;
+    height: 80px;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.dialogPersonAvatarDiv {
+    border: 1px solid black;
+    margin-left: 20px;
+    height: 100%;
+}
+.dialogPersonAvatarImg {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 13px;
+    border: 1px solid black;
+}
+.dialogPersonNameMessageCountDiv {
+
+}
+.dialogPersonNameDiv {
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 20px;
+}
+.dialogMessageCountDiv {
+    display: flex;
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.dialogCountDiv {
+    width: 23px;
+    margin-left: 15px;
+    border-radius: 50px;
+    margin-top: 2px;
+    text-align: center;
+
+}
+.dialogMessage {
+    height: 100%;
+    width: 420px;
+}
