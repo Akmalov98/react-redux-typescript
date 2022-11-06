@@ -1,0 +1,19 @@
+.messenger {
+    height: 40px;
+    display: flex;
+}
+.messengerIconDiv {
+    width: 12%;
+    height: 39px;
+    margin-left: 10%;
+}
+.messengerIcon {
+    width: 20px;
+    height: 20px;
+    margin-top: 8px;
+    color: rgba(133, 95, 173, 0.986);
+}
+.messengerDiv {
+    margin-left: 10px;
+    margin-top: 10px;
+}
